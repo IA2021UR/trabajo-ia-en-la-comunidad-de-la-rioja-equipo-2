@@ -1,0 +1,18 @@
+DATASET: https://unirioja-my.sharepoint.com/:u:/g/personal/joheras_unirioja_es/EbmPj-gacuJMrllR3FsP1IcBSvAh5dDfD7VdZQDkyWjMNA?e=qAKxPT 
+
+DOCUMENTACIÓN:
+OCR (Optical Character Recognition): https://www.pyimagesearch.com/2020/09/07/ocr-a-document-form-or-invoice-with-tesseract-opencv-and-python/
+Image alignment and registration: https://www.pyimagesearch.com/2020/08/31/image-alignment-and-registration-with-opencv/
+
+REQUISITOS:
+Crear una pequeña aplicación en forma de notebook que dada una imagen del catastro sea capaz de extraer el número de parcela y los cultivos de ella. 
+Todo el proceso deberá quedar documentado en una serie de notebooks donde expliquéis qué hacéis y las técnicas que aplicáis. 
+Por último deberéis crear un vídeo corto (aproximadamente 2 minutos) donde expliquéis de manera no técnica lo que habéis hecho. 
+Realizando de manera correcta las dos tareas anteriores, obtendréis entre un 7.5 y un 8.5 en la nota del trabajo.
+
+
+AMPLIACIONES:
+Una ampliación de este trabajo consiste en extraer la máxima cantidad posible de información de los documentos. 
+Otra posibilidad es crear una aplicación de escritorio para extraer y mostrar la información. 
+También podéis incluir cualquier otra cosa que se os ocurra.
+Todas las ampliaciones deberán ser documentadas en los notebooks. 
