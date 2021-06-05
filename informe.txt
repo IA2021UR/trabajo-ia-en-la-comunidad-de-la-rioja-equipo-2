@@ -1,0 +1,8 @@
+Informe: 
+- Trabajo base correcto.
+- Ampliaciones:
+ - Se extraen distintos tipos de información
+ - Distintas técnicas de procesado de imagen para extraer información
+- Calidad de la presentación buena
+Nota sobre 10: 9
+Nota: 2.25
